@@ -1,6 +1,3 @@
-[![GitHub Repo stars](https://img.shields.io/github/stars/REIS-THG/react-projects?style=social)](https://github.com/REIS-THG/react-projects/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 ## About
 
 This repository is a collection of reactjs projects. It is created so that everyone who wants to learn reactjs can use this repository as a single source of modern web projects. Also this repository is created to build an open source community where developers can add their projects day wise and contribute to it.
@@ -46,9 +43,6 @@ This you can play with your friends and challenge them to click click click... a
 
 #### How-to Run:
 
-```
-git clone https://github.com/REIS-THG/react-projects.git
-```
 
 ```
 cd react-projects
@@ -72,9 +66,6 @@ In this challenge you will be developing a reusable custom form component in whi
 
 #### How-to Run:
 
-```
-git clone https://github.com/REIS-THG/react-projects.git
-```
 
 ```
 cd react-projects
@@ -98,9 +89,6 @@ In this challenge we will develop a tic-tac-toe game using react basic concepts 
 
 #### How-to Run:
 
-```
-git clone https://github.com/REIS-THG/react-projects.git
-```
 
 ```
 cd react-projects
@@ -124,9 +112,6 @@ In this challenge we will develop a stopwatch and a timer using basic React conc
 
 #### How-to Run:
 
-```
-git clone https://github.com/REIS-THG/react-projects.git
-```
 
 ```
 cd react-projects
@@ -150,9 +135,6 @@ In this challenge we will develop the snake game using useState, useEffect, useR
 
 #### How-to Run:
 
-```
-git clone https://github.com/REIS-THG/react-projects.git
-```
 
 ```
 cd react-projects
@@ -177,9 +159,6 @@ You will learn how to manipulate css styling based on some JS conditions. And ho
 
 #### How-to Run:
 
-```
-git clone https://github.com/REIS-THG/react-projects.git
-```
 
 ```
 cd react-projects
@@ -205,9 +184,6 @@ JS events used in this challenge are onDragOver, onDrop, onDragStart.
 
 #### How-to Run:
 
-```
-git clone https://github.com/REIS-THG/react-projects.git
-```
 
 ```
 cd react-projects
@@ -233,9 +209,6 @@ There will be only one state which will carry all the user inputs with the help 
 
 #### How-to Run:
 
-```
-git clone https://github.com/REIS-THG/react-projects.git
-```
 
 ```
 cd react-projects
@@ -259,9 +232,6 @@ In this tutorial we will develop a shopping website using Reactjs Context API. T
 
 #### How-to Run:
 
-```
-git clone https://github.com/REIS-THG/react-projects.git
-```
 
 ```
 cd react-projects
@@ -286,9 +256,6 @@ The development process is simple and we won't do any API calls. Content/Text fo
 
 #### How-to Run:
 
-```
-git clone https://github.com/REIS-THG/react-projects.git
-```
 
 ```
 cd react-projects
@@ -312,9 +279,6 @@ Explore the development journey of a cutting-edge shopping cart application leve
 
 #### How-to Run:
 
-```
-git clone https://github.com/REIS-THG/react-projects.git
-```
 
 ```
 cd react-projects
@@ -338,9 +302,6 @@ In this project, we'll dive into crafting an engaging Sticky Notes application e
 
 #### How-to Run:
 
-```
-git clone https://github.com/REIS-THG/react-projects.git
-```
 
 ```
 cd react-projects
@@ -364,9 +325,6 @@ In this project, we are going to create a minimalist music player that will be u
 
 #### How-to Run:
 
-```
-git clone https://github.com/REIS-THG/react-projects.git
-```
 
 ```
 cd react-projects
@@ -384,11 +342,6 @@ npm install
 npm start
 ```
 
-## Contributions
-
-Feel free to send a pull request to add more reactjs projects.
-We are open for your feedback!
-
 ## Contribution Guidelines
 
 We welcome and appreciate all contributions to `react-projects`! Here's how you can contribute:
@@ -396,31 +349,3 @@ We welcome and appreciate all contributions to `react-projects`! Here's how you 
 ### Reporting Issues
 
 If you find a bug or have a suggestion for a new feature, please create a new issue. When creating an issue, try to provide as much detail as possible, including steps to reproduce the issue, your environment (e.g., browser, operating system), and screenshots if applicable.
-
-### Submitting Pull Requests
-
-If you'd like to contribute code, documentation, or other assets, you can create a pull request (PR). Here's a basic workflow:
-
-1. **Fork the Repository:** Click the 'Fork' button at the top-right of the page to create your own copy of the repository.
-
-2. **Clone Your Fork:** Clone your fork to your local machine with `git clone https://github.com/YOUR_USERNAME/react-projects.git`.
-
-3. **Create a Branch:** It's common practice to create a new branch for each PR. You can create a branch with `git checkout -b BRANCH_NAME`.
-
-4. **Make Your Changes:** Make your changes and commit them with `git commit -m "Your detailed commit message"`.
-
-5. **Push Your Changes:** Push your changes to your fork with `git push origin BRANCH_NAME`.
-
-6. **Create a Pull Request:** Go to your fork on GitHub and click the 'New pull request' button. Fill out the PR form and click 'Create pull request'.
-
-Please note that this is a general workflow and the specific steps may vary depending on the project. Always check the project's README or CONTRIBUTING guide for project-specific instructions.
-
-### Code of Conduct
-
-We're committed to fostering an open and welcoming environment. Please read and follow our Code of Conduct.
-
----
-
-## License
-
-[MIT](https://github.com/REIS-THG/react-projects/blob/master/LICENSE)
