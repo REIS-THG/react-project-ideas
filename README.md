@@ -10,10 +10,6 @@ _How about you add your own project and support this repository! Have any?_
 This is a free to use repository, you can clone any project from here and use it for your own purpose.
 And if you do find this repo useful, why not to :star: it?!
 
-## Our Website
-
-[Codinn](https://www.codinn.dev/) is an amazing platform for junior to senior level developers who wish to enhance their knowledge in the field of Web application. We are focussing on building community of millions of people around the world who are learning to write good quality code together. You can learn to code with free projects, code snippets and interview preparation for the tech jobs. Happy coding!
-
 ## Installation Guide
 
 Install Node.js and npm: If you haven’t already, you’ll need to install Node.js and npm (which comes with Node.js). You can download Node.js from the official website. To check if you have Node.js installed, run this command in your terminal:
