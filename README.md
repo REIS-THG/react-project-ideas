@@ -342,10 +342,6 @@ npm install
 npm start
 ```
 
-## Contribution Guidelines
-
-We welcome and appreciate all contributions to `react-projects`! Here's how you can contribute:
-
 ### Reporting Issues
 
 If you find a bug or have a suggestion for a new feature, please create a new issue. When creating an issue, try to provide as much detail as possible, including steps to reproduce the issue, your environment (e.g., browser, operating system), and screenshots if applicable.
