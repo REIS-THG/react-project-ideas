@@ -14,7 +14,7 @@ const AboutPage = () => {
         </div>
         <div className="about-right">
           <p>
-            I'm Vasu Awasthi. I am a <span>Software Developer</span>. I have
+            I'm Reis Marzana. I am a <span>Software Developer</span>. I have
             done Post Graduate Diploma in Advanced Computing from{" "}
             <span>CDAC</span>, Bangalore.
           </p>

@@ -16,28 +16,28 @@ const HomePage = () => {
         <div>
           <span>hey,</span>
           <p>
-            this is<span> Vasu</span>,
+            this is<span> Reis</span>,
           </p>
         </div>
         <span>a web developer.</span>
       </div>
       <div className="home-page-footer">
         <a
-          href="https://github.com/REIS-THG/react-project-ideas"
+          href="https://github.com/REIS-THG/react-projects"
           target="_blank"
           rel="noopener noreferrer"
         >
           <GitHubIcon />
         </a>
         <a
-          href="https://www.linkedin.com/in/vasu-awasthi-9a820b137"
+          href="https://www.linkedin.com"
           target="_blank"
           rel="noopener noreferrer"
         >
           <LinkedInIcon />
         </a>
         <a
-          href="https://www.instagram.com/vasu.awasthi3/"
+          href="https://www.instagram.com"
           target="_blank"
           rel="noopener noreferrer"
         >

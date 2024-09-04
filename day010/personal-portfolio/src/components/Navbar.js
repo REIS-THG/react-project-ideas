@@ -10,7 +10,7 @@ const Navbar = () => {
     <div className="navbar-container">
       <div className="navbar-left">
         <Link to="home" spy={true} smooth={true} duration={500}>
-          vasu.awasthi
+          Reis.Marzana
         </Link>
       </div>
       <div className="navbar-right-menubar">

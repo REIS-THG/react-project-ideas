@@ -36,7 +36,7 @@ const ContactPage = () => {
       process.env.REACT_APP_TEMPLATE_ID,
       {
         from_name: name,
-        to_name: "Vasu",
+        to_name: "Reis",
         message: { message, email, subject },
         reply_to: "",
       },
